@@ -1,0 +1,7 @@
+# Weather server specific dependencies
+# (inherit shared dependencies from root requirements.txt)
+
+# No additional dependencies needed beyond the shared ones:
+# - requests (for API calls)
+# - mcp (for MCP protocol)
+# - python-dotenv (for environment variables)
